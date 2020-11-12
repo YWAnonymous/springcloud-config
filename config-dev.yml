@@ -1,1 +1,2 @@
-aa
+config:
+    info: master,config-dev.yml
